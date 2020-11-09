@@ -25,7 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 . Angular CLI
 .html
 .typescript
-.Css
+.CSS
 
 
 ## Further help
